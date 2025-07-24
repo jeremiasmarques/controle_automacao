@@ -1,6 +1,5 @@
-# Estudo Dirigido - Controle e Automação 25.1
-#### Jeremias Samuel Lucena Marques - IFPB Campus Campina Grande
-##### 202111250029
+# Estudo Dirigido - Controle e Automação 25.1 - IFPB Campus Campina Grande
+#### Jeremias Samuel Lucena Marques (202111250029) e Felipe Braz da Silva (202111250005)
 -----
 Capítulo 4 - Características de Sistemas de Controle com Realimentação [[Notebook]](https://colab.research.google.com/drive/1_jfK4o0Zt6myusOpBOS9eHv5Mt98jlTT?usp=sharing) [[Video]](https://slideplayer.com/slide/5343987/) [[Video]](https://slideplayer.com/slide/3428129/)
 
